@@ -2,7 +2,8 @@
 
 Website for BioStride IP.
 
-todo background image + compress
-todo font
+todo add about and contact content
+todo enable deployment workflow
+todo hook up to custom url
 todo readability/contrast
 todo add link to readme

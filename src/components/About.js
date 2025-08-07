@@ -5,9 +5,7 @@ export default function About() {
     <div className="content" id="about">
       <div className="pcontent">
         <h2>TODO</h2>
-        <p>
-          TODO.
-        </p>
+        <p>TODO.</p>
         <p>TODO.</p>
       </div>
     </div>

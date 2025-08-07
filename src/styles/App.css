@@ -12,7 +12,7 @@ body {
 }
 
 .App {
-  font-family: "Robot Mono", Courier, monospace;
+  font-family: "Roboto Mono", Courier, monospace;
   display: flex;
   flex-direction: column;
   position: relative;

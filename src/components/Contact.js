@@ -7,9 +7,7 @@ export default function Contact() {
         <h2>
           Contact Bio<i>Stride</i> IP
         </h2>
-        <p>
-          todo.
-        </p>
+        <p>todo.</p>
         <p>todo.</p>
       </div>
     </div>

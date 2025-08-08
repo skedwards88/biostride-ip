@@ -2,7 +2,7 @@
 
 Website for BioStride IP.
 
-todo enable deployment workflow;  GitHub Pages settings, specify that GitHub Pages is built from GitHub Actions.
+todo enable deployment workflow; GitHub Pages settings, specify that GitHub Pages is built from GitHub Actions.
 todo hook up to custom url; follow the steps in https://github.com/skedwards88/react-base?tab=readme-ov-file#custom-domain-name
 todo readability/contrast
 todo add link to readme

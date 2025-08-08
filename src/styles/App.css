@@ -123,7 +123,7 @@ a {
 .leftBar {
   backdrop-filter: blur(10px);
   height: fit-content;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 
 .content p {

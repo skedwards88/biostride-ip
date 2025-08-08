@@ -15,7 +15,10 @@ module.exports = (env, argv) => {
   });
 
   const copyPlugin = new CopyPlugin({
-    patterns: [{from: "./src/images/logo.svg", to: "./assets/favicon.svg"}],
+    patterns: [
+      {from: "./src/images/logo.svg", to: "./assets/favicon.svg"},
+      {from: "./src/images/resume.pdf", to: "./resume.pdf"},
+    ],
     options: {
       concurrency: 100,
     },

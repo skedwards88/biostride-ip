@@ -6,7 +6,9 @@ export default function About() {
       <div className="leftBar">
         <h2>Colin Thom</h2>
         <h3>Senior Patent Agent</h3>
-        <button id="resumeButton">View Full Resume</button>
+        <a href="./resume.pdf" target="_blank" id="resumeButton">
+          View Full Resume
+        </a>
       </div>
       <div className="blurb">
         <p>

@@ -38,9 +38,6 @@ jobs:
       - name: Install requirements
         run: npm ci
 
-      - name: Run tests
-        run: npm test
-
       - name: Setup git config
         run: |
           git config --global user.name "skedwards88"

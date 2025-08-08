@@ -4,7 +4,7 @@ module.exports = {
     browser: true,
     "shared-node-browser": true,
     es2021: true,
-    jest: true,
+    jest: false,
   },
   extends: [
     "eslint:recommended",

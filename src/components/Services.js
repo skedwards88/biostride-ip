@@ -47,7 +47,7 @@ export default function Services() {
 
   return (
     <div className="content" id="services">
-      <div className="pcontent">
+      <div className="blurb">
         <h2>Trailblazing paths through biotech landscapes</h2>
         <p>
           Partnering with your IP counsel to provide technical IP work products.

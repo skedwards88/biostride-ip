@@ -111,6 +111,9 @@ a {
   all: unset;
   font-size: calc(var(--default-font-size) * 1.3);
   font-weight: bold;
+}
+
+#services h2 {
   margin: 0.7rem;
 }
 

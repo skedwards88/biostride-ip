@@ -17,34 +17,34 @@ export default function Services() {
     {
       header: "IP Portfolio Development",
       items: [
-        "Invention Harvesting",
-        "Patentability Assessment",
-        "Patent Drafting",
-        "Strategic Prosecution",
+        "Invention harvesting",
+        "Patentability assessment",
+        "Patent drafting",
+        "Strategic prosecution",
       ],
     },
     {
       header: "IP Portfolio Assessment",
       items: [
-        "Portfolio Presentation (for VC round or acquisition)",
-        "Portfolio Pruning",
-        "Third party Portfolio Review",
+        "Portfolio presentation (for VC round or acquisition)",
+        "Portfolio pruning",
+        "Third party portfolio review",
       ],
     },
     {
       header: "Patent Licensing",
       items: [
-        "IP Acquisition Search",
-        "Infringement Assessment",
-        "Licensing Strategy",
+        "IP acquisition search",
+        "Infringement assessment",
+        "Licensing strategy",
       ],
     },
     {
       header: "Freedom to Operate",
       items: [
-        "Patent Landscapes",
-        "Invalidating Art Search",
-        "Invalidity Charts",
+        "Patent landscapes",
+        "Invalidating art search",
+        "Invalidity charts",
       ],
     },
   ];

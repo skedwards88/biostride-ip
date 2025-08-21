@@ -26,7 +26,8 @@ export default function Services() {
     {
       header: "IP Portfolio Assessment",
       items: [
-        "Your Portfolio Presentation (e.g., for VC funding round or acquisition)",
+        "Portfolio Presentation (for VC round or acquisition)",
+        "Portfolio Pruning",
         "Third party Portfolio Review",
       ],
     },

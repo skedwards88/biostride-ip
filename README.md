@@ -2,8 +2,6 @@
 
 Website for BioStride IP.
 
-TODO 2nd box needs bullet
-
 TODO deploy:
 
 - Enable deployment workflow

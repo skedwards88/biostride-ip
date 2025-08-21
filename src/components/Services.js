@@ -25,7 +25,10 @@ export default function Services() {
     },
     {
       header: "IP Portfolio Assessment",
-      items: ["TODO"],
+      items: [
+        "Your Portfolio Presentation (e.g., for VC funding round or acquisition)",
+        "Third party Portfolio Review",
+      ],
     },
     {
       header: "Patent Licensing",

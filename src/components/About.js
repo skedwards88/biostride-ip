@@ -17,10 +17,18 @@ export default function About() {
           the NGS, genomics, proteomics, spatial omics, and single cell analysis
           space. By engaging deeply with R&D, I have developed a strong
           understanding of optics, fluidics, biochemistry, and many other fields
-          that are integrated in cutting edge research tools. I am excited to
-          leverage my industry experience to cultivate innovation, aggressively
-          develop patent portfolios, and navigate existing patent landscapes to
-          help shape the next generation of research tools.
+          that are integrated in cutting edge research tools.
+        </p>
+        <p>
+          I am excited to leverage my industry experience to cultivate
+          innovation, aggressively develop patent portfolios, and navigate
+          existing patent landscapes to help shape the next generation of
+          research tools.
+        </p>
+        <p>
+          I have worked with small and mid-size biotech companies to develop
+          patent portfolios that range from just a few inventions to hundreds of
+          separate patent applications.{" "}
         </p>
       </div>
     </div>

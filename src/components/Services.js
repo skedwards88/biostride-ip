@@ -34,16 +34,16 @@ export default function Services() {
     {
       header: "Patent Licensing",
       items: [
-        "IP acquisition search",
+        "Patent acquisition search",
         "Infringement assessment",
         "Licensing strategy",
       ],
     },
     {
-      header: "Freedom to Operate",
+      header: "Patent Landscaping",
       items: [
-        "Patent landscapes",
-        "Invalidating art search",
+        "Competitor patent search",
+        "Patent invalidation art search",
         "Invalidity charts",
       ],
     },
@@ -54,7 +54,7 @@ export default function Services() {
       <div className="blurb">
         <h2>Trailblazing paths through biotech landscapes</h2>
         <p>
-          Partnering with your IP counsel to provide technical IP work products.
+            Providing technical work products to inform IP counsel decisions.
         </p>
         <p>
           Specialized in biotech research tools across the multiomics, spatial,

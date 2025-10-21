@@ -53,9 +53,7 @@ export default function Services() {
     <div className="content" id="services">
       <div className="blurb">
         <h2>Trailblazing paths through biotech landscapes</h2>
-        <p>
-            Providing technical work products to inform IP counsel decisions.
-        </p>
+        <p>Providing technical work products to inform IP counsel decisions.</p>
         <p>
           Specialized in biotech research tools across the multiomics, spatial,
           single cell, and next generation sequencing space.

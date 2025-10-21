@@ -20,10 +20,10 @@ export default function About() {
           that are integrated in cutting edge research tools
         </p>
         <p>
-          I am excited to leverage this industry experience to help biotech companies cultivate
-          innovation, aggressively develop patent portfolios, and navigate
-          existing patent landscapes to help shape the next generation of
-          research tools.
+          I am excited to leverage this industry experience to help biotech
+          companies cultivate innovation, aggressively develop patent
+          portfolios, and navigate existing patent landscapes to help shape the
+          next generation of research tools.
         </p>
       </div>
     </div>

@@ -15,10 +15,10 @@ export default function Contact() {
         <p>
           If your company needs help with technical IP projects but doesn&apos;t
           have the capacity to hire a full time employee, please do not hesitate
-          to reach out by email or over LinkedIn! Both mid-sized companies with commercial products and
-          start-ups seeking their next round of funding are welcome. I am
-          selective in the work I take on to avoid any conflicts, and I will let
-          you know upfront if I can help.
+          to reach out by email or over LinkedIn! Both mid-sized companies with
+          commercial products and start-ups seeking their next round of funding
+          are welcome. I am selective in the work I take on to avoid any
+          conflicts, and I will let you know upfront if I can help.
         </p>
       </div>
     </div>
